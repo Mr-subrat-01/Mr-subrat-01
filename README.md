@@ -22,7 +22,7 @@ const subrat = {
     location: "🌍 India",
     currentFocus: "Building scalable web applications",
     learning: ["Cloud Architecture", "DevOps", "AI/ML Integration"],
-    askMeAbout: ["Web Development", "System Design", "Problem Solving"],
+    askMeAbout: ["Web Development", "App Development", "Desktop App Development"],
     funFact: "Coffee + Code = Magic ☕✨"
 };
 ```
@@ -133,37 +133,12 @@ graph LR
 
 <br>
 
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🎯 Goals 2024] --> B[Cloud Architecture]
-    A --> C[System Design]
-    A --> D[Open Source]
-    B --> E[AWS Certification]
-    C --> F[Scalable Apps]
-    D --> G[Community Impact]
-    
-    style A fill:#667eea,stroke:#764ba2,stroke-width:2px,color:#fff
-    style B fill:#f093fb,stroke:#f5576c,stroke-width:2px,color:#fff
-    style C fill:#4facfe,stroke:#00f2fe,stroke-width:2px,color:#fff
-    style D fill:#43e97b,stroke:#38f9d7,stroke-width:2px,color:#fff
-```
-
-</div>
-
-<br>
-
 ## 🌐 Connect With Me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/mrsubrat/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skumarsahoo470@gmail.com)
 
 </div>
 
