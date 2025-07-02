@@ -21,8 +21,8 @@ const subrat = {
     role: "Full Stack Developer",
     location: "🌍 India",
     currentFocus: "Building scalable web applications",
-    learning: ["Cloud Architecture", "DevOps", "AI/ML Integration"],
-    askMeAbout: ["Web Development", "App Development", "Desktop App Development"],
+    learning: ["Advanced React Patterns", "Mobile Development", "Desktop Applications"],
+    askMeAbout: ["Web Development", "Mobile App Development", "Desktop App Development"],
     funFact: "Coffee + Code = Magic ☕✨"
 };
 ```
@@ -34,30 +34,34 @@ const subrat = {
 <div align="center">
 
 ### Languages
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
 
-### Frontend
+### Frontend Development
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
-### Backend & Database
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+### Backend Development
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-5C2D91?style=flat-square&logo=.net&logoColor=white)
 
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+### Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+
+### Desktop Development
+![WPF](https://img.shields.io/badge/WPF-5C2D91?style=flat-square&logo=.net&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+### Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
@@ -87,11 +91,11 @@ const subrat = {
 graph LR
     A[🎯 Goals 2025] --> B[React Native]
     A --> C[Desktop Applications]
-    A --> D[Cloud Architecture]
+    A --> D[Advanced Web Development]
     A --> E[Open Source]
-    B --> F[Mobile Development]
-    C --> G[Cross-Platform Apps]
-    D --> H[AWS Certification]
+    B --> F[Cross-Platform Mobile Apps]
+    C --> G[WPF Applications]
+    D --> H[Full Stack Mastery]
     E --> I[Community Impact]
     
     style A fill:#667eea,stroke:#764ba2,stroke-width:2px,color:#fff
@@ -100,6 +104,27 @@ graph LR
     style D fill:#43e97b,stroke:#38f9d7,stroke-width:2px,color:#fff
     style E fill:#ffeaa7,stroke:#fdcb6e,stroke-width:2px,color:#2d3436
 ```
+
+</div>
+
+<br>
+
+## 🚀 Development Areas
+
+<div align="center">
+
+### 🌐 Web Development
+**Frontend:** React, HTML5, CSS3, SCSS, TailwindCSS, JavaScript, TypeScript  
+**Backend:** Laravel (PHP), .NET Core, .NET Framework
+
+### 📱 Mobile Development
+**Cross-Platform:** React Native for iOS & Android
+
+### 🖥️ Desktop Development
+**Windows Applications:** WPF with .NET Framework/.NET Core
+
+### 🗄️ Database Management
+**Relational Databases:** MySQL, SQL Server
 
 </div>
 
