@@ -73,12 +73,11 @@ const subrat = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-subrat-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-subrat-01&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-subrat-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-subrat-01&layout=compact&theme=gradient&hide_border=true&langs_count=8&card_width=400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-subrat-01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=350" />
 </div>
 
 <br>
