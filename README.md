@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Subrat&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=51&descAlign=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Subrat&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descAlign=62&descSize=18"/>
 </div>
 
 <div align="center">
@@ -73,16 +73,8 @@ const subrat = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Mr-subrat-01&show_icons=true&theme=gradient&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" width="400"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-subrat-01&theme=gradient&hide_border=true" width="400"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-subrat-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-subrat-01&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
