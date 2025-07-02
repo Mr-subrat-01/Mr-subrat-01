@@ -79,6 +79,32 @@ const subrat = {
 
 <br>
 
+## 🎯 Current Focus
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎯 Goals 2025] --> B[React Native]
+    A --> C[Desktop Applications]
+    A --> D[Cloud Architecture]
+    A --> E[Open Source]
+    B --> F[Mobile Development]
+    C --> G[Cross-Platform Apps]
+    D --> H[AWS Certification]
+    E --> I[Community Impact]
+    
+    style A fill:#667eea,stroke:#764ba2,stroke-width:2px,color:#fff
+    style B fill:#f093fb,stroke:#f5576c,stroke-width:2px,color:#fff
+    style C fill:#4facfe,stroke:#00f2fe,stroke-width:2px,color:#fff
+    style D fill:#43e97b,stroke:#38f9d7,stroke-width:2px,color:#fff
+    style E fill:#ffeaa7,stroke:#fdcb6e,stroke-width:2px,color:#2d3436
+```
+
+</div>
+
+<br>
+
 ## 🏆 Achievements & Trophies
 
 <div align="center">
