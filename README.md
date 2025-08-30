@@ -56,7 +56,16 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mr-subrat-01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <br/>
-  <i>💬 Feel free to reach out for collaboration!</i>
+
+
+💡 **Open to collaboration on exciting projects!**  
+🤝 **Let's turn ideas into reality together**  
+📧 **Always happy to discuss tech and opportunities**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Mr-subrat-01&label=Profile%20views&color=00B8D9&style=for-the-badge" alt="Profile views" />
+<br/>
+ ✨ "Building the future, one line of code at a time" ✨
+
 </div>
