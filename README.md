@@ -1,78 +1,61 @@
-<table border="0" cellpadding="10">
-  <tr>
-    <td width="300" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" height="250"/>
-    </td>
-    <td>
-      <h1>Hi, I'm Subrat Kumar Sahoo 👋</h1>
-      <p>
-        <strong>Full Stack .NET Developer</strong> · Bhubaneswar, Odisha<br/>
-        ASP.NET Core · C# · Angular · SQL Server
-      </p>
-    </td>
-  </tr>
-</table>
- 
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Subrat Kumar Sahoo, Full Stack Developer" />
+</p>
 
-### 👨‍💻 About Me
+### `GET /about`
 
-- 🏢 Associate Consultant at **Aveyrone Consulting Pvt Ltd**
-- 🔧 Building ERP billing systems, REST APIs, and automation platforms
-- ⚡ Improved API response times by ~25% through SQL Server query optimization
-- 🤖 Built WhatsApp & Instagram automation platforms using Cloud APIs and Webhooks
-- 🎓 MCA Graduate — Biju Patnaik University of Technology (2026)
-- 📬 Open to full-time and remote opportunities
+```json
+{
+  "name": "Subrat Kumar Sahoo",
+  "role": "Full Stack Developer",
+  "location": "Bhubaneswar, India",
+  "building": ["RAG helpdesk", "WhatsApp automation", "Instagram automation"],
+  "highlight": "Cut API response time by ~25% with query indexing",
+  "education": "MCA, Biju Patnaik University of Technology",
+  "status": "open to backend and full stack roles"
+}
+```
 
----
+### `GET /stack`
 
-### 🛠️ Tech Stack
+```json
+{
+  "backend": ["Node.js", "Express", "NestJS", "TypeScript"],
+  "frontend": ["React", "Next.js"],
+  "data": ["PostgreSQL", "MongoDB", "Redis", "Prisma"],
+  "ai": ["LangChain", "Gemini API", "RAG", "Vector Search"],
+  "integrations": ["WhatsApp Cloud API", "Instagram Graph API", "Webhooks"],
+  "devops": ["Docker", "AWS EC2", "GitHub Actions"]
+}
+```
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,nextjs,html,css,sqlserver,redis,git,github,postman,visualstudio" alt="tech stack" />
-</div>
+### `GET /projects`
 
-**Backend** — ASP.NET Core · C# · Web API · Microservices · REST  
-**Frontend** — Angular · HTML · CSS · Next.js  
-**Database** — SQL Server · indexing · query optimization  
-**APIs** — WhatsApp Cloud API · Meta Instagram Graph API · Webhooks  
-**Others** — Redis · RabbitMQ · SignalR · Hangfire  
-
----
-
-### 🚀 Projects
-
-| Project | Tech | Link |
+| Project | What it does | Stack |
 |---|---|---|
-| 🎫 Ticket Management System | ASP.NET Core · C# · SQL Server | [GitHub](https://github.com/Mr-subrat-01/Ticket-Management-System-TMS-.git) |
-| 👥 HR Management System | ASP.NET Core · C# · SQL Server | [GitHub](https://github.com/Mr-subrat-01/HR-Management-System-HRMS-.git) |
-| 💬 WhatsApp Automation Platform | ASP.NET Core · Next.js · WhatsApp Cloud API | Confidential |
-| 📸 Instagram Automation Platform | ASP.NET Core · Next.js · Meta Instagram Graph API | Confidential |
+| **QuickDesk** | AI helpdesk with ticket triage and RAG-based replies | Next.js · NestJS · PostgreSQL · LangChain · Gemini |
+| **WhatsApp Automation** | Campaigns, scheduling and retries for segmented contacts | Node.js · Express · WhatsApp Cloud API |
+| **Instagram Automation** | Campaign engine and no-code chatbot builder | Node.js · Express · Instagram Graph API |
 
----
+### `GET /activity`
 
-### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-subrat-01&show_icons=true&hide_border=true&bg_color=0b0f14&title_color=2dd4bf&text_color=c9d1d9&icon_color=f5a524&ring_color=2dd4bf" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-subrat-01&layout=compact&hide_border=true&bg_color=0b0f14&title_color=2dd4bf&text_color=c9d1d9" height="165" alt="Top languages" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mr-subrat-01&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mr-subrat-01&theme=tokyonight"/>
-</div>
+### `POST /contact`
 
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Mr-subrat-01&theme=tokyonight&hide_border=true"/>
-</div>
- 
+```http
+POST /contact HTTP/1.1
+Content-Type: application/json
 
-### 🌐 Connect With Me
+{ "message": "Let's build something." }
+```
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mrsubrat/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:skumarsahoo470@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/mrsubrat/"><img src="https://img.shields.io/badge/LinkedIn-2dd4bf?style=for-the-badge&logo=linkedin&logoColor=0b0f14" alt="LinkedIn" /></a>
+<a href="mailto:skumarsahoo470@gmail.com"><img src="https://img.shields.io/badge/Email-f5a524?style=for-the-badge&logo=gmail&logoColor=0b0f14" alt="Email" /></a>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mr-subrat-01&label=Profile%20Views&color=0077B5&style=for-the-badge" alt="Profile views" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mr-subrat-01&label=Requests%20served&color=2dd4bf&style=flat-square" alt="Profile views" />
+</p>
